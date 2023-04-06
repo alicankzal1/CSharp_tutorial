@@ -1,0 +1,15 @@
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.deps.json
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.runtimeconfig.json
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.dll
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.pdb
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.AssemblyReference.cache
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfoInputs.cache
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfo.cs
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.dll
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/refint/TypesAndVariables.dll
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.pdb
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.genruntimeconfig.cache
+/Users/alicankizal/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/ref/TypesAndVariables.dll
